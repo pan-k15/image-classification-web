@@ -11,6 +11,9 @@ The Image Classification Webapp is an AI-powered project that uses deep learning
 * ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
   
 <img src="./images/home_screen.png" alt="screen">
+
 ---
+
 #### Support me
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P71JL5X3)
